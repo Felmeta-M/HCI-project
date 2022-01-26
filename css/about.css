@@ -1,5 +1,5 @@
-.container{
-    background-color: #23869C;
+#cont{
+    background-color: hsl(191, 63%, 37%);
 }
 .section_main_title{
     margin-bottom: 5px ;
@@ -26,4 +26,7 @@
 }
 h2{
     padding: 0.5em;
+}
+.img-fluid{
+    margin-top: 2em;
 }
