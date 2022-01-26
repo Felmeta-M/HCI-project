@@ -4,6 +4,6 @@ Abebe beso bbela tiru new
 
 #     Group Member   
 
-     Name                 ID
+             Name                 ID
      
-    5 Esmiz           UGR/0000/12
+            5 Esmiz           UGR/0000/12
