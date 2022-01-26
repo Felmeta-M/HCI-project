@@ -1,7 +1,5 @@
 # HCI Project 
 
-Abebe beso bbela tiru new
-
 #     Group Member   
 
      Name                                     ID
