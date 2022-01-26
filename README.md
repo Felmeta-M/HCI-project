@@ -3,7 +3,7 @@
 
 #     Group Member   
 
-     Name                                    ID
+     Name                                     ID
    1,Mihret Desalegn                        UGR/1089/12
    2,Genzeb Alemu                           UGR/9822/12
    3,Yeabsira Tekuamwork                    UGR/9192/12
